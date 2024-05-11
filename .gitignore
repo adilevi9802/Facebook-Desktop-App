@@ -1,0 +1,26 @@
+# Ignore compiled binaries and generated files
+**/bin/
+**/obj/
+**/packages/
+
+# Ignore user-specific files
+**/userprefs
+
+# Ignore Visual Studio files
+.vs/
+
+# Ignore ReSharper files
+_ReSharper.*/
+
+# Ignore NuGet package directories
+packages/
+
+# Ignore .NET artifacts
+*.suo
+*.user
+*.bak
+*.tmp
+
+# Ignore Windows-specific files
+Thumbs.db
+Desktop.ini
